@@ -2,7 +2,7 @@ package ramdatastructures;
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
-public class priorityqueue {
+public class priorityqueue_123 {
 
 	public static void main(String[] args) {
 		PriorityQueue<Integer> pq = new PriorityQueue<>();
